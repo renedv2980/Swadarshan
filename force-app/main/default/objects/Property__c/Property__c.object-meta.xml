@@ -25,6 +25,9 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+    </description>
+    test
+    <description>
         <actionName>New</actionName>
         <type>Default</type>
     </actionOverrides>
