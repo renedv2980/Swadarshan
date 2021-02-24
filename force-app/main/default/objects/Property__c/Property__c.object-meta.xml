@@ -46,7 +46,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>Property_Compact_Layout</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>show partial build on feb 24 200000000000000000000000000000000000000000021 </description>
+    <description>show partial build on feb 24 2000000000000000000000000000000000021 </description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
